@@ -10,4 +10,6 @@ package testci;
  */
 public class AnotherClass {
     
+    private int anotherThing;
+    
 }
